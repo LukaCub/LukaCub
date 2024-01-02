@@ -5,7 +5,7 @@
 <h3 align="center">I am like a small child who entered a new world where there are many possibilities and wants to learn and discover</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukacub&label=Profile%20views&color=0e75b6&style=flat" alt="lukacub" /> </p>
+
 
 - 🌱 I’m currently learning **Html, CSS and in the near future I want to start learning Javascript**
 
